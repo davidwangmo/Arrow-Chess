@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>transparent.jpg</Source>
+      <Name>transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\transparent.xnb</Output>
+      <Time>2019-05-03T13:42:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bishop.JPG</Source>
+      <Name>bishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\bishop.xnb</Output>
+      <Time>2019-05-06T14:39:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pawn1.JPG</Source>
+      <Name>pawn1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn1.xnb</Output>
+      <Time>2019-05-06T14:39:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pawn2.JPG</Source>
+      <Name>pawn2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn2.xnb</Output>
+      <Time>2019-05-06T14:39:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>king.JPG</Source>
+      <Name>king</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\king.xnb</Output>
+      <Time>2019-05-06T14:39:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>rook.JPG</Source>
+      <Name>rook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\rook.xnb</Output>
+      <Time>2019-05-06T14:39:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>flippawn1.JPG</Source>
+      <Name>flippawn1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\flippawn1.xnb</Output>
+      <Time>2019-06-03T21:52:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>flippawn2.JPG</Source>
+      <Name>flippawn2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\flippawn2.xnb</Output>
+      <Time>2019-06-03T21:52:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WinningFont.spritefont</Source>
+      <Name>WinningFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\WinningFont.xnb</Output>
+      <Time>2019-05-31T09:59:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TeamFont.spritefont</Source>
+      <Name>TeamFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\TeamFont.xnb</Output>
+      <Time>2019-05-31T09:53:14-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChessContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChessContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-05-31T18:04:16.1763286-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

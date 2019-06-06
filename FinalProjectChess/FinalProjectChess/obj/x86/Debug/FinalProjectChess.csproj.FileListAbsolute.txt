@@ -1,0 +1,60 @@
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.csprojResolveAssemblyReference.cache
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\FinalProjectChess.exe
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\FinalProjectChess.pdb
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.exe
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.pdb
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\transparent.xnb
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\bishop.xnb
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn1.xnb
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn2.xnb
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\rook.xnb
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\WinningFont.xnb
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\TeamFont.xnb
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\transparent.xnb
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\bishop.xnb
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn1.xnb
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn2.xnb
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\queen.xnb
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\rook.xnb
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\WinningFont.xnb
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\TeamFont.xnb
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.exe
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.pdb
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\FinalProjectChess.exe
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\FinalProjectChess.pdb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\transparent.xnb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\bishop.xnb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn1.xnb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn2.xnb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\rook.xnb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\WinningFont.xnb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\TeamFont.xnb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\FinalProjectChess.exe
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\FinalProjectChess.pdb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.csprojResolveAssemblyReference.cache
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.exe
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.pdb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\king.xnb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\transparent.xnb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\bishop.xnb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn1.xnb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn2.xnb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\king.xnb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\rook.xnb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\WinningFont.xnb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\TeamFont.xnb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\FinalProjectChess.exe
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\FinalProjectChess.pdb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.csprojResolveAssemblyReference.cache
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.exe
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\obj\x86\Debug\FinalProjectChess.pdb
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\king.xnb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\flippawn1.xnb
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\flippawn2.xnb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\flippawn1.xnb
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\flippawn2.xnb

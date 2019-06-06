@@ -1,0 +1,4 @@
+\\artemis\19dwang\my documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChessContent\obj\x86\Debug\FinalProjectChessContent.contentprojResolveAssemblyReference.cache
+F:\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChessContent\obj\x86\Debug\FinalProjectChessContent.contentprojResolveAssemblyReference.cache
+C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChessContent\obj\x86\Debug\FinalProjectChessContent.contentprojResolveAssemblyReference.cache
+F:\FinalProjectChess\FinalProjectChess\FinalProjectChessContent\obj\x86\Debug\FinalProjectChessContent.contentprojResolveAssemblyReference.cache
