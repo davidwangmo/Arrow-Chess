@@ -14,8 +14,25 @@ namespace FinalProjectChess
     /// <summary>
     /// This is the main type for your game
     /// </summary>
+    /// 
     public class Game1 : Microsoft.Xna.Framework.Game
     {
+        /* Description of the game:
+         * 
+         * Objective: Capture the opponent's king
+         *            or have your king on the furthest side for two consecutive turns.
+         * Pieces:    Rook, Bishop, King, Pawn, Promoted Pawn
+         *
+         * Rules:     Rooks move horizontally and vertically.
+         *            Bishops move diagonally.
+         *            Kings move in all directions.
+         *            Pawns move forward.
+         *            Promoted pawns move horizontally, vertically, and diagonally backwards.
+         *            Each piece can only move 1 square per turn.
+         *            When a piece is captured, it becomes your piece.
+         *            You may place it back onto the main board in your closest 3 by 3 square as a turn.
+         *            When a pawn reaches the furthest side, it is promoted.     
+         * */
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         Texture2D transparent, bishop, king, rook, pawnone, pawntwo, flippedpawnone, flippedpawntwo;
@@ -101,7 +118,7 @@ namespace FinalProjectChess
                 this.Exit();
             mouse = Mouse.GetState();
             cursorPoint = new Point(mouse.X, mouse.Y);
-
+            //first click to select a piece
             if (firstclick == false)
             {
                 for(int i =0;i<24;i++)
@@ -228,6 +245,7 @@ namespace FinalProjectChess
                     }
                 }
             }
+            //second click to choose the new position of the selected piece.
             else
             {
                 for (int i = 0; i < 24; i++)
@@ -542,10 +560,12 @@ namespace FinalProjectChess
                                 resetForInvalidMove();
                             }
                             selectedpiece = "None";
+                            //king turns on furthest side
                             if (king1 < 3) k1turns++;
                             else k1turns = 0;
                             if (king2 > 8) k2turns++;
                             else k2turns = 0;
+                            //is the pawn promoted
                             if (pawn1[0] < 3)
                                 flippedpawn1 = true;
                             if (pawn1[1] < 3)
@@ -558,7 +578,7 @@ namespace FinalProjectChess
                     }
                 }
             }
-
+            //check if a piece is captured
             if (newclickposition == rook2[0] && team == 2)
             {
                 rook2[0] = 21;
@@ -645,7 +665,7 @@ namespace FinalProjectChess
                 player2win = true;
                 gameover = true;
             }
-            
+            //reset the game
             if (gameover && mouse.RightButton == ButtonState.Pressed && oldMouse.RightButton == ButtonState.Released)
             {
                 player1win = false;
@@ -686,6 +706,7 @@ namespace FinalProjectChess
             oldMouse = mouse;
             base.Update(gameTime);
         }
+        //invalid move resets
         private void resetForInvalidMove()
         {
             firstclick = false;
@@ -739,11 +760,11 @@ namespace FinalProjectChess
             clickPositionArray == new int[(clickPosition % 3 + 1), clickPosition / 3 - 1] ||
             clickPositionArray == new int[(clickPosition % 3 - 1), clickPosition / 3 - 1]; 
         }
-        private int columnNumberOf(int position) //TODO: position needs to be >0 <12
+        private int columnNumberOf(int position)
         {
             return position % 3;
         }
-        private int rowNumberOf(int position)//TODO: position needs to be >0 <12
+        private int rowNumberOf(int position)
         {
             return position / 3;
         }
@@ -792,6 +813,7 @@ namespace FinalProjectChess
                    Math.Abs(columnOfCurrentPosition - columnOfNextPosition) == 1 &&
                    (rowOfCurrentPosition - rowOfNextPosition) == 1;
         }
+
 
         /// <summary>
         /// This is called when the game should draw itself.
@@ -842,6 +864,8 @@ namespace FinalProjectChess
                     spriteBatch.DrawString(teamdisplay, "Player 2's Pieces", new Vector2(705, 50), Color.Black);
                     spriteBatch.Draw(king, gameboard.drawBoard()[king1], Color.LightBlue);
                     spriteBatch.Draw(king, gameboard.drawBoard()[king2], Color.LightGreen);
+
+                    //Which piece is drawn
                     if (capturedpawn1 == false && flippedpawn1 == true)
                     {
                         spriteBatch.Draw(flippedpawnone, gameboard.drawBoard()[pawn1[0]], Color.LightBlue);

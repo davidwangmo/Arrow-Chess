@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\transparent.xnb</Output>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\transparent.xnb</Output>
       <Time>2019-05-03T13:42:04-04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\bishop.xnb</Output>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\bishop.xnb</Output>
       <Time>2019-05-06T14:39:22-04:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn1.xnb</Output>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn1.xnb</Output>
       <Time>2019-05-06T14:39:22-04:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn2.xnb</Output>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\pawn2.xnb</Output>
       <Time>2019-05-06T14:39:22-04:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\king.xnb</Output>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\king.xnb</Output>
       <Time>2019-05-06T14:39:22-04:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\rook.xnb</Output>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\rook.xnb</Output>
       <Time>2019-05-06T14:39:22-04:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\flippawn1.xnb</Output>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\flippawn1.xnb</Output>
       <Time>2019-06-03T21:52:02-04:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\flippawn2.xnb</Output>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\flippawn2.xnb</Output>
       <Time>2019-06-03T21:52:02-04:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\WinningFont.xnb</Output>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\WinningFont.xnb</Output>
       <Time>2019-05-31T09:59:16-04:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\TeamFont.xnb</Output>
+      <Output>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\TeamFont.xnb</Output>
       <Time>2019-05-31T09:53:14-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -97,10 +97,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChessContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChessContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChessContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChessContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\binw\Documents\Visual Studio 2010\Projects\FinalProjectChess\Arrow-Chess\FinalProjectChess\FinalProjectChess\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
