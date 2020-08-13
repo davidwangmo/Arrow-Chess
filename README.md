@@ -1,2 +1,2 @@
 # Arrow-Chess
-My first project/game built in C#.
+My first project built in C#.
